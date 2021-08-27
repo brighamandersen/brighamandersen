@@ -4,7 +4,7 @@
 
 <!-- ![Picture of Me](https://raw.githubusercontent.com/brighamband/brighamband/main/profile.jpg) -->
 
-<!-- Solarized dark             |  Solarized Ocean -->
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![Brigham Banner](https://raw.githubusercontent.com/brighamband/brighamband/main/linkedin-banner.png)  |  ![Picture of Me](https://raw.githubusercontent.com/brighamband/brighamband/main/profile.jpg)
 
