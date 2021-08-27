@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Brigham Andersen and I'm addicted to giving my all. 💯
 
-![Brigham Banner](https://raw.githubusercontent.com/brighamband/brighamband/main/linkedin-banner.png)
+<!-- ![Brigham Banner](https://raw.githubusercontent.com/brighamband/brighamband/main/linkedin-banner.png) -->
 
-![Picture of Me](https://raw.githubusercontent.com/brighamband/brighamband/main/profile.jpg)
+<!-- ![Picture of Me](https://raw.githubusercontent.com/brighamband/brighamband/main/profile.jpg) -->
 
-Solarized dark             |  Solarized Ocean
+<!-- Solarized dark             |  Solarized Ocean -->
 :-------------------------:|:-------------------------:
 ![Brigham Banner](https://raw.githubusercontent.com/brighamband/brighamband/main/linkedin-banner.png)  |  ![Picture of Me](https://raw.githubusercontent.com/brighamband/brighamband/main/profile.jpg)
 
