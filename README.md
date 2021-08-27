@@ -5,6 +5,8 @@
 
 ### Make sure to check out [my website](https://brighamband.com) to learn more about me and what I do!
 
+![Brigham Banner](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 <!--
 **brighamband/brighamband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
