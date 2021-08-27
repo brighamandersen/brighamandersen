@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Brigham Andersen and I'm addicted to giving my all.
+
+## I especially love using technology to help solve the problem we hate most: WASTING TIME & MONEY.
 
 <!--
 **brighamband/brighamband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
