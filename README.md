@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Brigham Andersen and I'm addicted to giving my all.
+# Hi there 👋 I'm **Brigham Andersen** and I'm addicted to giving my all.
 
 ## I especially love using technology to help solve the problem we hate most: WASTING TIME & MONEY.
 
