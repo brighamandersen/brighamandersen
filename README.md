@@ -2,6 +2,9 @@
 
 ## I especially love using technology to help solve the problem we hate most: WASTING TIME & MONEY.
 
+
+### Make sure to check out [my website](https://brighamband.com) to learn more about me and what I do!
+
 <!--
 **brighamband/brighamband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
