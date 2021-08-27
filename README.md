@@ -4,4 +4,4 @@
 
 I'm studying Computer Science: Software Engineering and minoring in Business at Brigham Young University, looking to find the optimal solution to the problem we hate most:  **WASTING TIME ⌛ & MONEY 💲**. 
 
-### Make sure to check out [my website (brighamband.com)](https://brighamband.com) to learn more about me, schoolwork, and fun side projects I do! 😁
+### Make sure to check out [my website *(brighamband.com)*](https://brighamband.com) to learn more about me, schoolwork, and fun side projects I do! 😁
