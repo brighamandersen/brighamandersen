@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Brigham Andersen and I'm addicted to giving my all. 💯
+# Hi there! 👋 I'm Brigham Andersen and I'm addicted to giving my all. 💯
 
 <!-- ![Brigham Banner](https://raw.githubusercontent.com/brighamandersen/brighamandersen/main/linkedin-banner.png) -->
 
