@@ -1,7 +1,7 @@
 # I’m Brigham Andersen and I build technology that boosts productivity.  💯
 
 <div style="display: flex; flex-direction: column">
-<img src="https://raw.githubusercontent.com/brighamandersen/brighamandersen/main/linkedin-banner.png" alt="Brigham Banner" height="200px" style="display: flex; flex-grow: 1">
+<img src="https://raw.githubusercontent.com/brighamandersen/brighamandersen/main/linkedin-banner.png" alt="Brigham Banner" height="200px" style="display: flex; flex: 1">
 <img src="https://raw.githubusercontent.com/brighamandersen/brighamandersen/main/profile.jpg" alt="Picture of Me" height="200px">
 </div>
 
