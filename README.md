@@ -1,11 +1,6 @@
 # I’m Brigham Andersen and I build technology that boosts productivity.  💯
 
-<!-- <img src="./linkedin-banner.png" alt="Brigham Banner" height="200px" style="min-width: 600px"> <img src="./profile.jpg" alt="Picture of Me" height="200px"> -->
-
-<div style="display: flex">
-  <img src="./profile-banner.jpg" alt="Brigham Banner" style="width: 100%">
-  <img src="./profile.jpg" alt="Profile Picture" style="flex: 1; height: 200px">
-</div>
+<img src="./profile-banner.jpg" alt="Brigham Banner" height="200px" style="min-width: 600px"> <img src="./profile.jpg" alt="Picture of Me" height="200px">
 
 I love solving the problem users hate most – wasting time. We all detest menial tasks, but computers can automate them, freeing us for impactful work.  Obsessed with the time-saving potential of technology, I’ve created my career in software engineering. 
 
