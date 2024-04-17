@@ -2,7 +2,6 @@
 
 <!-- <img src="./linkedin-banner.png" alt="Brigham Banner" height="200px" style="min-width: 600px"> <img src="./profile.jpg" alt="Picture of Me" height="200px"> -->
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <style>
