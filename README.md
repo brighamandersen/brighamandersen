@@ -1,6 +1,6 @@
 # I’m Brigham Andersen and I build technology that boosts productivity.  💯
 
-<img src="./linkedin-banner.png" alt="Brigham Banner" height="200px" style="min-width: 600px"> <img src="./profile.jpg" alt="Picture of Me" height="200px">
+<!-- <img src="./linkedin-banner.png" alt="Brigham Banner" height="200px" style="min-width: 600px"> <img src="./profile.jpg" alt="Picture of Me" height="200px"> -->
 
 <!DOCTYPE html>
 <html lang="en">
