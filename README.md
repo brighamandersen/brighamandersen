@@ -1,6 +1,6 @@
 # I’m Brigham Andersen and I build technology that boosts productivity.  💯
 
-<img src="./profile-banner.jpg" alt="Brigham Banner" height="200px" width="75%"> <img src="./profile.jpg" alt="Picture of Me" height="200px" width="25%">
+<img src="./profile-banner.jpg" alt="Brigham Banner" height="300px" width="75%"> <img src="./profile.jpg" alt="Picture of Me" height="200px" width="25%">
 
 I love solving the problem users hate most – wasting time. We all detest menial tasks, but computers can automate them, freeing us for impactful work.  Obsessed with the time-saving potential of technology, I’ve created my career in software engineering. 
 
