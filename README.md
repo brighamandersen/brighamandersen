@@ -3,7 +3,7 @@
 <!-- <img src="./linkedin-banner.png" alt="Brigham Banner" height="200px" style="min-width: 600px"> <img src="./profile.jpg" alt="Picture of Me" height="200px"> -->
 
 <div style="display: flex">
-  <img src="./linkedin-banner.jpg" alt="Brigham Banner" style="width: 100%">
+  <img src="./profile-banner.jpg" alt="Brigham Banner" style="width: 100%">
   <img src="./profile.jpg" alt="Profile Picture" style="flex: 1; height: 200px">
 </div>
 
