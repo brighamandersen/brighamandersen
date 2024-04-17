@@ -3,8 +3,8 @@
 <!-- <img src="./linkedin-banner.png" alt="Brigham Banner" height="200px" style="min-width: 600px"> <img src="./profile.jpg" alt="Picture of Me" height="200px"> -->
 
 <div style="display: flex">
-  <img src="left-image.jpg" alt="Left Image" style="flex: 1">
-  <img src="right-image.jpg" alt="Right Image" style="flex: 1; display: none">
+  <img src="./linkedin-banner.png" alt="Brigham Banner" style="flex: 1">
+  <img src="./profile.jpg" alt="Profile Picture" style="flex: 1; display: none">
 </div>
 
 I love solving the problem users hate most – wasting time. We all detest menial tasks, but computers can automate them, freeing us for impactful work.  Obsessed with the time-saving potential of technology, I’ve created my career in software engineering. 
