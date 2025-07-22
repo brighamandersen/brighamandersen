@@ -6,4 +6,4 @@ I love solving the problem users hate most – wasting time. We all detest menia
 
 My career vision is to build technology that helps users and businesses boost their productivity. I’ve assisted numerous startups along with Fortune 500 companies like Nike, Oracle, Chick-fil-A, McDonald's, and Walmart. If you or your business could benefit from saving time and getting more done, I’m happy to assist you!
 
-### Make sure to check out my website [(brighamandersen.com)](https://brighamandersen.com) to learn more about me and the work I do! 😁
+### Check out my website [(brighamandersen.com)](https://brighamandersen.com) to learn more about me and the work I do! 😁
